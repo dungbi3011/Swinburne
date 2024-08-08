@@ -1,0 +1,43 @@
+C:\Swinburne\AI\Assignment2\bin\Debug\net6.0\Assignment2.exe
+C:\Swinburne\AI\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+C:\Swinburne\AI\Assignment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Swinburne\AI\Assignment2\bin\Debug\net6.0\Assignment2.dll
+C:\Swinburne\AI\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.dll
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Swinburne\AI\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.exe
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.deps.json
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.pdb
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.pdb
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Samples\Sample 2\Assignment 2\Assignment 2\obj\Debug\net6.0\ref\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.exe
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.deps.json
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\bin\Debug\net6.0\Assignment2.pdb
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\refint\Assignment2.dll
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.pdb
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+C:\Users\ZungBii\Documents\Swinburne\COS30019 Introduction to AI\Assignment 2\Assignment 2\obj\Debug\net6.0\ref\Assignment2.dll

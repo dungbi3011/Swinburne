@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Assignment2": {
+      "commandName": "Project",
+      "commandLineArgs": "test_HornKB.txt"
+    }
+  }
+}
